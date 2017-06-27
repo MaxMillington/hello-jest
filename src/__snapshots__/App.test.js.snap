@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`my sweet test renders without crashing 1`] = `
+<div>
+  <div
+    data-reactroot=""
+    class="App"
+  >
+    <div
+      class="App-header"
+    >
+      <img
+        src="logo.svg"
+        class="App-logo"
+        alt="logo"
+      />
+      <h2>
+        Welcome to React
+      </h2>
+    </div>
+    <div>
+      <p
+        class="App-intro"
+      >
+        <!-- react-text: 7 -->
+        To get started, edit 
+        <!-- /react-text -->
+        <code>
+          src/App.js
+        </code>
+        <!-- react-text: 9 -->
+        and save to reload.
+        <!-- /react-text -->
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`my sweet test renders without crashing 2`] = `
+<div>
+  <div
+    data-reactroot=""
+    class="App"
+  >
+    <div
+      class="App-header"
+    >
+      <img
+        src="logo.svg"
+        class="App-logo"
+        alt="logo"
+      />
+      <h2>
+        Welcome to React
+      </h2>
+    </div>
+    <div>
+      <p
+        class="App-intro"
+      >
+        <!-- react-text: 7 -->
+        To get started, edit 
+        <!-- /react-text -->
+        <code>
+          src/App.js
+        </code>
+        <!-- react-text: 9 -->
+        and save to reload.
+        <!-- /react-text -->
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`my sweet test renders without crashing 3`] = `
+<div>
+  <div
+    data-reactroot=""
+    class="App"
+  >
+    <div
+      class="App-header"
+    >
+      <img
+        src="logo.svg"
+        class="App-logo"
+        alt="logo"
+      />
+      <h2>
+        Welcome to React
+      </h2>
+    </div>
+    <div>
+      <p
+        class="App-intro"
+      >
+        <!-- react-text: 7 -->
+        To get started, edit 
+        <!-- /react-text -->
+        <code>
+          src/App.js
+        </code>
+        <!-- react-text: 9 -->
+        and save to reload.
+        <!-- /react-text -->
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`my sweet test renders without crashing 4`] = `
+<div>
+  <div
+    data-reactroot=""
+    class="App"
+  >
+    <div
+      class="App-header"
+    >
+      <img
+        src="logo.svg"
+        class="App-logo"
+        alt="logo"
+      />
+      <h2>
+        Welcome to React
+      </h2>
+    </div>
+    <div>
+      <p
+        class="App-intro"
+      >
+        <!-- react-text: 7 -->
+        To get started, edit 
+        <!-- /react-text -->
+        <code>
+          src/App.js
+        </code>
+        <!-- react-text: 9 -->
+        and save to reload.
+        <!-- /react-text -->
+      </p>
+    </div>
+  </div>
+</div>
+`;
